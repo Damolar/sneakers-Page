@@ -1,0 +1,88 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.nav{
+    padding: 0 3rem;
+    gap: 1.5rem;
+}
+
+.navbar-brand{
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+
+.cart i{
+    padding-right: 2rem;
+}
+
+.cart img{
+    border-radius: 50%;
+}
+
+.container1{
+    /* display: grid; */
+    justify-content: center;
+    margin: 0rem 14rem;
+}
+
+.sneakers{
+    margin-top: 4rem;
+}
+
+.fall{
+    padding-top: 4rem;
+    padding-left: 3rem;
+}
+
+.fall h2{
+    font-weight: bolder;
+}
+
+.container1 img {
+    border-radius: 15px;
+}
+
+.pay{
+    display: flex;
+    gap: 0.7rem;
+}
+
+.pay h5{
+    padding-top: 0.5rem;
+    font-weight: bolder;
+}
+
+.discount{
+    background-color: #FEF1E7;
+    color: #FC7F1E;
+}
+
+.cool{
+    display: flex;
+    gap: 13px;
+    margin-bottom: 2rem;
+}
+
+.joint{
+    display: flex;
+    gap: 1rem;
+}
+
+.btn-group{
+    background-color: aliceblue;   
+}
+
+.special{
+    padding: 0 1.5rem;
+}
+
+.add{
+    background-color: #ff9946;
+    color: #fff;
+    padding: 0 2rem;
+    border-radius: 0.5rem;
+}
